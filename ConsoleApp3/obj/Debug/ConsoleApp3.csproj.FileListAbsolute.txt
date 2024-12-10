@@ -1,0 +1,6 @@
+C:\Users\Kab-35-16\Desktop\Новая папка\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Kab-35-16\Desktop\Новая папка\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Kab-35-16\Desktop\Новая папка\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Kab-35-16\Desktop\Новая папка\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\Desktop\Новая папка\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Kab-35-16\Desktop\Новая папка\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
